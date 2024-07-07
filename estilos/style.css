@@ -1,0 +1,31 @@
+@charset "UTF-8;"
+
+/*
+cores 
+#A67563  marron lith
+#D9BDAD nude 
+#5A8C6B verde lith frio
+#3E8C60 verde mais fribante
+#F2F2F0 clien
+*/
+
+
+body {
+    margin: 0px;
+}
+
+.main-login{
+    width: 100vw;
+    height: 100vh;
+    background: #5A8C6B;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.left-login{
+    width: 50vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
